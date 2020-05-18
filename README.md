@@ -5,7 +5,7 @@ Step (2): 51503 - Smart PLMN Pin and Disable the MCC / MNC Unlocking Toggle.
 
 PLMNs:
 * 51503 (Smart)
-* Soon for SUN / TNT
+* 51505 (SUN / Digitel)
 
 Default:
 * Username:user
