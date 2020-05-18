@@ -20,9 +20,6 @@ SuperAdmin:
 * Password:83583000
 
 OpenPorts:
-* 80 (WebServer)
-* 53 (DNS)
-* 10020 (AT+ Server)
 * 8357 (SSH)
 * 4719 (Telnet)
 
