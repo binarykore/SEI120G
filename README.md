@@ -3,6 +3,10 @@ Step (1): Advance Settings URL Addon - "mcc_mnc_locking/frequency" from "router_
 
 Step (2): 51503 - Smart PLMN Pin and Disable the MCC / MNC Unlocking Toggle.
 
+PLMNs:
+* 51503 (Smart)
+* Soon for SUN / TNT
+
 Default:
 * Username:user
 * Password:@l03e1t3
