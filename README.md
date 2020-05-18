@@ -24,6 +24,7 @@ OpenPorts:
 * 53 (DNS)
 * 10020 (AT+ Server)
 * 8357 (SSH)
+* 4719 (Telnet)
 
 
 ( C ) - Jhowel Gracio Huerto
