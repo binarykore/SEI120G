@@ -20,7 +20,7 @@ Admin (White):
 * Username:admin
 * Password:EfkXhRHD
 
-SuperAdmin:
+SuperAdmin (Black):
 * Username:sztozed
 * Password:83583000
 
