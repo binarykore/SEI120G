@@ -12,9 +12,13 @@ Default:
 * Username:user
 * Password:@l03e1t3
 
-Admin:
+Admin (Black):
 * Username:admin
 * Password:CP45HhBP
+
+Admin (White):
+* Username:admin
+* Password:EfkXhRHD
 
 SuperAdmin:
 * Username:sztozed
