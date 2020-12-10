@@ -7,6 +7,7 @@ PLMNs:
 * 51503 (Smart)
 * 51505 (SUN / Digitel)
 * 51502 (Globe)
+* 51501 (Globe)
 
 Default:
 * Username:user
