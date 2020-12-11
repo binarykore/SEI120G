@@ -11,7 +11,7 @@
 
 ## Advance Setups (Update Config)
 
-* Step (1): Go to Router Settings Page, and edit "router_settings" to "backup_data"
+* Step (1): Go to Router Settings Page, then click "DHCP" (1x) and edit "router_settings" to "backup_data"
 * Step (2): Upload your Config from Releases Page download, then click Update.
 * Step (3): Wait for Device / Router Restart or Reboot, then all the Settings should be Updated accordingly.
 
