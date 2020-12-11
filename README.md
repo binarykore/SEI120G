@@ -4,11 +4,16 @@
 
 * https://github.com/binarykorra/SEI-120G/releases/
 
-## Basic Steps
+## Basic Steps (Openline and Frequency Settings)
 
-Step (1): Advance Settings URL Addon - "mcc_mnc_locking/frequency" from "router_settings".
+* Step (1): Advance Settings URL Addon - "mcc_mnc_locking/frequency" from "router_settings".
+* Step (2): Input your Telecom PLMN Pin and Disable the MCC / MNC Unlocking Toggle.
 
-Step (2): Input your Telecom PLMN Pin and Disable the MCC / MNC Unlocking Toggle.
+## Advance Setups (Update Config)
+
+* Step (1): Go to Router Settings Page, and edit "router_settings" to "backup_data"
+* Step (2): Upload your Config from Releases Page download, then click Update.
+* Step (3): Wait for Device / Router Restart or Reboot, then all the Settings should be Updated.
 
 ## Network Codes
 
