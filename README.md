@@ -1,4 +1,11 @@
-# SEI-120G - Globe XTreme - Network Unlock
+# SEI-120G - Globe Extreme / Xtreme - Network Unlock
+
+## Releases Page
+
+* https://github.com/binarykorra/SEI-120G/releases/
+
+## Basic Steps
+
 Step (1): Advance Settings URL Addon - "mcc_mnc_locking/frequency" from "router_settings".
 
 Step (2): Input your Telecom PLMN Pin and Disable the MCC / MNC Unlocking Toggle.
@@ -40,5 +47,6 @@ OpenPorts:
 How to get Admin Password via 192.168.254.254:
 * http://192.168.254.254/goform/goform_get_cmd_process?isTest=false&cmd=admin_Password
 
+## Copyright (2020)
 
 ( C ) - Xin Snowflakes, 09225205353
