@@ -22,6 +22,7 @@ PLMNs:
 * 51505 (SUN / Digitel)
 * 51502 (Globe)
 * 51501 (Globe)
+* 51566 (DITO)
 
 ## Accounts
 
