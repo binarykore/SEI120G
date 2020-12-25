@@ -55,4 +55,4 @@ How to get Admin Password via 192.168.254.254:
 
 ## Copyright (2020)
 
-( C ) - Xin Snowflakes, 09225205353
+( C ) - BinaryKorra, 09225205353
