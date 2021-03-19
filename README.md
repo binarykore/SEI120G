@@ -42,6 +42,28 @@ SuperAdmin (Black) Account:
 * Username:sztozed
 * Password:83583000
 
+SuperAdmin (White:Universal_Firmware) Account:
+* https://github.com/binarykorra/SEI-120G/releases/tag/LT90T_1.01.1_v02
+* Username:sztozed
+* Password:44433618
+
+## For Future Preference
+
+* IMEI:
+* 860702049866890
+* user > sztozed
+* pass > 44433618
+
+* IMEI:
+* 860702048619878
+* user > sztozed
+* pass> 43158149
+
+* IMEI:
+* 860702043105386
+* user > sztozed
+* pass > 48143168
+
 ## Networking
 
 OpenPorts:
