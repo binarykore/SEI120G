@@ -51,17 +51,23 @@ SuperAdmin (White:Universal_Firmware) Account:
 
 * IMEI (1st):
 860702049866890
+
 user > sztozed
+
 pass > 44433618
 
 * IMEI (2nd):
 860702048619878
+
 user > sztozed
+
 pass> 43158149
 
 * IMEI (3rd):
 860702043105386
+
 user > sztozed
+
 pass > 48143168
 
 ## TZ_NVShow (DIY)
