@@ -64,6 +64,10 @@ SuperAdmin (White:Universal_Firmware) Account:
 * user > sztozed
 * pass > 48143168
 
+## TZ_NVShow (DIY)
+* imei=new_imei
+* tz_sn_code=SEIT_new_imei
+
 ## Networking
 
 OpenPorts:
