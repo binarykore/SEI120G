@@ -42,6 +42,12 @@ SuperAdmin (Black) Account:
 * Username:sztozed
 * Password:83583000
 
+## Precautions (DIY)
+A must do precautionary measure if your IMEI doesnt change by using the Firmware.
+* Do an AT Command first via #send_at from your Mobile Browser by clicking DHCP (x1) from #router_settings
+* Afterwards type this Command: AT^MODIMEI="new_imei" then Upload the Universal Firmware
+* I just tested this earlier by Uploading the Firmware without AT+ Commands first
+
 SuperAdmin (White:Universal_Firmware) Account:
 * https://github.com/binarykorra/SEI-120G/releases/tag/LT90T_1.01.1_v02
 * Username:sztozed
