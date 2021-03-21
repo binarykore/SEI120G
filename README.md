@@ -75,7 +75,7 @@ pass > 48143168
 
 ## TZ_NVShow (DIY)
 * imei=new_imei
-* tz_sn_code=SEIT_new_imei
+* tz_sn_code=SEIT + new_imei
 
 ## Networking
 
