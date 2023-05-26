@@ -5,7 +5,11 @@
 <details>
 <summary>Donations and Payments to GCash or 7/11</summary>
 <p>
-  <code><a href="sms:+639225205353?body=Payment Sent!">GCash or 7/11</a></code>
+  <code>GCash or 7/11 Cashin:</code>
+  <code>09225205353</code>
+</p>
+<p>
+  <img src="https://cdn.snowkel.us/cdn/images/gcash"></img>
 </p>
 </details>
 
