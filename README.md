@@ -16,7 +16,7 @@
 </p>
 <br/>
 <p>
-  <code>QR Code (EWallet):</code>
+  <code>QR Code (EWallet / GCash, soon - Coins PH):</code>
 </p>
 <p>
   <img src="https://cdn.snowkel.us/cdn/images/gcash"></img>
