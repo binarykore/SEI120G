@@ -1,8 +1,15 @@
 # SEI-120G - Globe Extreme / Xtreme - Network Unlock
 
-## Donations and Payments to GCash or 7/11
+## Payments:
 
-![send_money:09225205353]([screenshot.png](https://cdn.snowkel.us/cdn/images/gcash))
+<details>
+<summary>Donations and Payments to GCash or 7/11</summary>
+<p>
+  <code><a href="sms:+639225205353?body=Payment Sent!">GCash or 7/11</a></code>
+</p>
+</details>
+
+[![send_money:09225205353](https://cdn.snowkel.us/cdn/images/gcash)]
 
 ## Releases Page
 
