@@ -5,10 +5,12 @@
 <details>
 <summary>Donations and Payments to GCash or 7/11</summary>
 <p>
-  <code>GCash or 7/11 Cashin:</code>
+  <code>EWallet - Send Money</code>
   <br/>
   <br/>
-  <code>09225205353</code>
+  <code>Send Money: 09225205353 (GCash)</code>
+  <br/>
+  <code>Remittance: 09225205353 (7/11)</code>
 </p>
 <br/>
 <hr/>
