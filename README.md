@@ -1,4 +1,4 @@
-# SEI-120G - Globe Extreme / Xtreme - Network Unlock
+# SEI-120G - (Tozed-based) - Network Unlock
 
 ## Payments:
 
