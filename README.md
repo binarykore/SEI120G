@@ -13,8 +13,9 @@
   <code>Remittance: 09225205353 (7/11)</code>
 </p>
 <br/>
-<hr/>
-<br/>
+<p>
+  <code>QR Code (EWallet):</code>
+</p>
 <p>
   <img src="https://cdn.snowkel.us/cdn/images/gcash"></img>
 </p>
