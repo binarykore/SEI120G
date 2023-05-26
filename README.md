@@ -6,9 +6,10 @@
 <summary>Donations and Payments to GCash or 7/11</summary>
 <p>
   <code>GCash or 7/11 Cashin:</code>
-  <hr/>
+  <br/>
   <code>09225205353</code>
 </p>
+<hr/>
 <p>
   <img src="https://cdn.snowkel.us/cdn/images/gcash"></img>
 </p>
