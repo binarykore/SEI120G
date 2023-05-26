@@ -6,31 +6,35 @@
 <summary>Donations and Payments to GCash or 7/11</summary>
 <p>
   <code>GCash or 7/11 Cashin:</code>
+  <hr/>
   <code>09225205353</code>
+  * sms:+639225205353
 </p>
 <p>
   <img src="https://cdn.snowkel.us/cdn/images/gcash"></img>
 </p>
+<p>
+  <code>Message after Payment, provide Reference ID..</code>
+</p>
+* sms:+639225205353?body=Payment Sent!
 </details>
 
-[![send_money:09225205353](https://cdn.snowkel.us/cdn/images/gcash)]
-
-## Releases Page
+## Releases Page:
 
 * https://github.com/binarykorra/SEI-120G/releases/
 
-## Basic Steps (Openline and Frequency Settings)
+## Basic Steps (Openline and Frequency Settings):
 
 * Step (1): Advance Settings URL Addon - "mcc_mnc_locking/frequency" from "router_settings".
 * Step (2): Input your Telecom PLMN Pin and Disable the MCC / MNC Unlocking Toggle.
 
-## Advance Setups (Update Config)
+## Advance Setups (Update Config):
 
 * Step (1): Go to Router Settings Page, then click "DHCP" (1x) and edit "router_settings" to "backup_data"
 * Step (2): Upload your Config from Releases Page download, then click Update.
 * Step (3): Wait for Device / Router Restart or Reboot, then all the Settings should be Updated accordingly.
 
-## Network Codes
+## Network Codes:
 
 PLMNs:
 * 51503 (Smart)
@@ -39,7 +43,7 @@ PLMNs:
 * 51501 (Globe)
 * 51566 (DITO)
 
-## Accounts
+## Accounts:
 
 Default Account:
 * Username:user
@@ -68,7 +72,7 @@ SuperAdmin (White:Universal_Firmware) Account:
 * Username:sztozed
 * Password:44433618
 
-## For Future Preference
+## For Future Preference:
 
 * IMEI (860702049866890):
 
@@ -88,17 +92,17 @@ user > sztozed
 
 pass > 48143168
 
-## TZ_NVShow (DIY)
+## TZ_NVShow (DIY):
 * imei=new_imei
 * tz_sn_code=SEIT + new_imei
 
-## Networking
+## Networking:
 
 OpenPorts:
 * 8357 (SSH)
 * 4719 (Telnet)
 
-## Notice
+## Notice:
 
 How to get Admin Password via 192.168.254.254:
 * http://192.168.254.254/goform/goform_get_cmd_process?isTest=false&cmd=admin_Password
