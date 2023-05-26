@@ -3,7 +3,7 @@
 ## Payments:
 
 <details>
-<summary>Donations and Payments to GCash or 7/11</summary>
+<summary>Donations and Payments to Philippine-based EWallet</summary>
 <p>
   <code>EWallet - Send Money</code>
   <br/>
