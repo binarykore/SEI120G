@@ -1,5 +1,9 @@
 # SEI-120G - Globe Extreme / Xtreme - Network Unlock
 
+## Donations and Payments to GCash or 7/11
+
+![send_money:09225205353]([screenshot.png](https://cdn.snowkel.us/cdn/images/gcash))
+
 ## Releases Page
 
 * https://github.com/binarykorra/SEI-120G/releases/
