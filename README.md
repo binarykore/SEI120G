@@ -7,9 +7,12 @@
 <p>
   <code>GCash or 7/11 Cashin:</code>
   <br/>
+  <br/>
   <code>09225205353</code>
 </p>
+<br/>
 <hr/>
+<br/>
 <p>
   <img src="https://cdn.snowkel.us/cdn/images/gcash"></img>
 </p>
