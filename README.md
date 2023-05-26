@@ -10,6 +10,8 @@
   <br/>
   <code>Send Money: 09225205353 (GCash)</code>
   <br/>
+  <code>Send Money: 09225205353 (Coins PH)</code>
+  <br/>
   <code>Remittance: 09225205353 (7/11)</code>
 </p>
 <br/>
