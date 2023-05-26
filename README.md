@@ -8,15 +8,10 @@
   <code>GCash or 7/11 Cashin:</code>
   <hr/>
   <code>09225205353</code>
-  * sms:+639225205353
 </p>
 <p>
   <img src="https://cdn.snowkel.us/cdn/images/gcash"></img>
 </p>
-<p>
-  <code>Message after Payment, provide Reference ID..</code>
-</p>
-* sms:+639225205353?body=Payment Sent!
 </details>
 
 ## Releases Page:
