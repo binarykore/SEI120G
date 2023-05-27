@@ -1,9 +1,9 @@
-# SEI-120G - (Tozed-based) - Network Unlock
+## SEI120G: (Tozed-based) - Network Unlock
 
 ## Payments:
 
 <details>
-<summary>Donations and Payments to Philippine-based EWallet</summary>
+<summary>Donations and Payments</summary>
 <p>
   <code>EWallet - Send Money</code>
   <br/>
@@ -16,7 +16,7 @@
 </p>
 <br/>
 <p>
-  <code>QR Code (EWallet / GCash, soon - Coins PH):</code>
+  <code>QR Code (GCash):</code>
 </p>
 <p>
   <img src="https://cdn.snowkel.us/cdn/images/gcash"></img>
