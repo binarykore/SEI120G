@@ -12,7 +12,9 @@
   <br/>
   <code>Send Money: 09225205353 (Coins PH)</code>
   <br/>
-  <code>Remittance: 09225205353 (7/11)</code>
+  <code>Send Money: 09225205353 (Palawan Pay)</code>
+  <br/>
+  <code>Remittance: 09225205353 (711 and Palawan)</code>
 </p>
 <br/>
 <p>
