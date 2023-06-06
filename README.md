@@ -25,7 +25,7 @@
 
 ## Releases Page:
 
-* https://github.com/binarykorra/SEI-120G/releases/
+* https://github.com/binarykore/SEI-120G/releases/
 
 ## Basic Steps (Openline and Frequency Settings):
 
@@ -72,7 +72,7 @@ A must do precautionary measure if your IMEI doesnt change by using the Firmware
 * I just tested this earlier by Uploading the Firmware without AT+ Commands first
 
 SuperAdmin (White:Universal_Firmware) Account:
-* https://github.com/binarykorra/SEI-120G/releases/tag/LT90T_1.01.1_v02
+* https://github.com/binarykore/SEI-120G/releases/tag/LT90T_1.01.1_v02
 * Username:sztozed
 * Password:44433618
 
