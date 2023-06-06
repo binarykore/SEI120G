@@ -113,4 +113,4 @@ How to get Admin Password via 192.168.254.254:
 
 ## Copyright (2020)
 
-( C ) - [BinaryKorra](https://github.com/binarykorra), 09225205353
+( C ) - [BinaryKore](https://github.com/binarykore), 09225205353
