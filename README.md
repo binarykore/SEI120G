@@ -1,6 +1,15 @@
 ## SEI120G: (Tozed-based) - Network Unlock
 
-## Payments:
+## Donations and Payments:
+
+* Some of the Funds (30% of the Income / Transaction) will be donated to Feeding Programs and Charity..
+
+## Donations and Charity Drives:
+
+* Feeding Programs
+* Charity Drives
+* Cleaning Programs
+* Stray Pet Cares
 
 <details>
 <summary>Donations and Payments</summary>
