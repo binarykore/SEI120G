@@ -8,7 +8,7 @@
 
 * Feeding Programs
 * Charity Drives
-* Cleaning Programs
+* Eco Cleaning Programs
 * Stray Pet Cares
 
 <details>
