@@ -2,7 +2,7 @@
 
 ## Donations and Payments:
 
-* Some of the Funds (30% of the Income / Transaction) will be donated to Feeding Programs and Charity..
+* Some of the Funds (30% of the Income / Transaction) will be donated to Feeding Programs and Charity ..
 
 ## Donations and Charity Drives:
 
