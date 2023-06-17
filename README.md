@@ -3,7 +3,7 @@
 ## Donations and Payments:
 
 * Some of the Funds (30% of the Income / Transaction) will be donated to Feeding Programs and Charity ..
-* EG: (30 divided by PHP 100.00 multiplied by 100), PM / DM for Setups! (https://www.fb.com/binarymako)
+* EG: (30 divided by PHP 100.00 multiplied by 100), PM / DM for Setups! (https://m.me/binarymako)
 
 ## Donations and Charity Drives:
 
