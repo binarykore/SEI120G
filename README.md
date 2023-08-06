@@ -39,7 +39,7 @@
   <code>QR Code (GCash):</code>
 </p>
 <p>
-  <img src="https://cdn.snowkel.us/cdn/images/gcash"></img>
+  <img src="https://cdn.snowkel.us/image/redirect/gcash"></img>
 </p>
 </details>
 
