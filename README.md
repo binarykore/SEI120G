@@ -32,7 +32,11 @@
   <br/>
   <code>Remittance: 09225205353 (7/11 > GCash / Coins PH)</code>
   <br/>
-  <code>Remittance: 09225205353 (Palawan > GCash)</code>
+  <code>Remittance: 09225205353 (Palawan > GCash / Coins PH)</code>
+  <br/>
+  <code>Remittance: 09225205353 (Cebuana > GCash / Coins PH)</code>
+  <br/>
+  <code>Remittance: 09225205353 (MLhuillier > GCash / Coins PH)</code>
 </p>
 <br/>
 <p>
