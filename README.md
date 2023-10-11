@@ -66,7 +66,7 @@
 
 ## Network Codes:
 
-PLMNs:
+#### PLMNs:
 * 51503 (Smart)
 * 51505 (SUN / Digitel)
 * 51502 (Globe)
