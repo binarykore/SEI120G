@@ -26,17 +26,19 @@
   <br/>
   <code>Send Money: 09225205353 (GCash)</code>
   <br/>
+  <code>Send Money: 09225205353 (Maya, soon)
+  <br/>
   <code>Send Money: 09225205353 (Coins PH)</code>
   <br/>
   <code>Send Money: 09225205353 (Palawan Pay)</code>
   <br/>
-  <code>Remittance: 09225205353 (7/11 > GCash / Coins PH)</code>
+  <code>Remittance: 09225205353 (7/11 > GCash / Coins PH / Maya, soon)</code>
   <br/>
-  <code>Remittance: 09225205353 (Palawan > GCash / Coins PH)</code>
+  <code>Remittance: 09225205353 (Palawan > GCash / Coins PH / Maya, soon)</code>
   <br/>
-  <code>Remittance: 09225205353 (Cebuana > GCash / Coins PH)</code>
+  <code>Remittance: 09225205353 (Cebuana > GCash / Coins PH / Maya, soon)</code>
   <br/>
-  <code>Remittance: 09225205353 (MLhuillier > GCash / Coins PH)</code>
+  <code>Remittance: 09225205353 (MLhuillier > GCash / Coins PH / Maya, soon)</code>
 </p>
 <br/>
 <p>
