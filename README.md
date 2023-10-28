@@ -21,7 +21,7 @@
 <details>
 <summary>Donations and Payments</summary>
 <p>
-  <code>EWallet - Send Money</code>
+  <code>E-Wallet - Send Money</code>
   <br/>
   <br/>
   <code>Send Money: 09225205353 (GCash)</code>
@@ -31,6 +31,10 @@
   <code>Send Money: 09225205353 (Coins PH)</code>
   <br/>
   <code>Send Money: 09225205353 (Palawan Pay)</code>
+  <br/>
+  <br/>
+  <code>E-Wallet - Remittance</code>
+  <br/>
   <br/>
   <code>Remittance: 09225205353 (7/11 > GCash / Coins PH / Maya, soon)</code>
   <br/>
@@ -128,7 +132,7 @@ pass > 48143168
 
 ## Networking:
 
-OpenPorts:
+Open Available Ports (White / Black):
 * 8357 (SSH)
 * 4719 (Telnet)
 
