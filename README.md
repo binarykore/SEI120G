@@ -16,7 +16,7 @@
 * Feeding Programs
 * Charity Drives
 * Eco Cleaning Programs
-* Stray Pet Cares
+* Stray Animal Cares
 
 <details>
 <summary>Donations and Payments</summary>
