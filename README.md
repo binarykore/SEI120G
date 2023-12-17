@@ -1,6 +1,6 @@
 ## SEI120G: ( Tozed ) - Network Unlock
 
-* SEI120G is a Tozed-based Home Prepaid WiFi Router maxed at 20mbps depending on the Location of the Router and House, It may however be installed with an IPX Connector or SMA to UFL Connector to increase the Frequency, Currently it has 20mhz / 40mhz Router Bandwidth and a bit MB for the RAM to accumulate the horse power of the WiFi Router.. It has 4.0ghz WiFi Standard and up to a couple of Users Connected only hotspot..
+* SEI120G is a Tozed-based Home Prepaid WiFi Router maxed at 10mbps (Globe) / 20mbps (DITO) / Smart? (Soon) - depending on the Location of the Router and House, It may however be installed with an IPX Connector or SMA to UFL Connector to increase the Frequency, Currently it has 20mhz / 40mhz Router Bandwidth and a bit MB for the RAM to accumulate the horse power of the WiFi Router.. It has 4.0ghz WiFi Standard and up to a couple of Users Connected only hotspot..
 
 ### How Much?
 #### (Maintenance and Configuration) - EG:
