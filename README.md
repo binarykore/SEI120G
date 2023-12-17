@@ -3,20 +3,23 @@
 * SEI120G is a Tozed-based Home Prepaid WiFi Router maxed at 20mbps depending on the Location of the Router and House, It may however be installed with an IPX Connector or SMA to UFL Connector to increase the Frequency, Currently it has 20mhz / 40mhz Router Bandwidth and a bit MB for the RAM to accumulate the horse power of the WiFi Router.. It has 4.0ghz WiFi Standard and up to a couple of Users Connected only hotspot..
 
 ### How Much?
+#### (Maintenance and Configuration) - EG:
 
-* An amount of PHP 100.00 or USD 2.00 is suffice to support the Configurations and Mods in the Firmware
+* APN Settings, CIDR / DHCP Subnetting, Networking and Admin Access, Openline - Strictly no Debranding..
+
+* An amount of PHP 100.00 or USD 2.00 (or less) is suffice to support the Configurations and Mods in the Config Firmware File..
 
 ## Donations and Payments:
 
-* The Funds ( 30% of the Income / Transaction ) will be donated to Feeding Programs and Charity
-* EG: (30 divided by PHP 100.00 multiplied by 100), PM / DM for Setups! ( https://m.me/binarymako )
+* The Funds ( 30% of the Income / Transaction ) will be donated to Feeding Programs and Charity..
+* EG: (30 divided by PHP 100.00 multiplied by 100), PM / DM for Setups! ( [Chat Support](https://m.me/binarymako) )..
 
 ## Donations and Charity Drives:
 
-* Feeding Programs
-* Charity Drives
-* Eco Cleaning Programs
-* Stray Animal Cares
+* Feeding Programs..
+* Charity Drives..
+* Eco Cleaning Programs..
+* Stray Animal Cares..
 
 <details>
 <summary>Donations and Payments</summary>
@@ -59,14 +62,14 @@
 
 ## Basic Steps (Openline and Frequency Settings):
 
-* Step (1): Advance Settings URL Addon - "mcc_mnc_locking/frequency" from "router_settings".
-* Step (2): Input your Telecom PLMN Pin and Disable the MCC / MNC Unlocking Toggle.
+* Step (1): Advance Settings URL Addon - "mcc_mnc_locking/frequency" from "router_settings"..
+* Step (2): Input your Telecom PLMN Pin and Disable the MCC / MNC Unlocking Toggle..
 
 ## Advance Setups (Update Config):
 
-* Step (1): Go to Router Settings Page, then click "DHCP" (1x) and edit "router_settings" to "backup_data"
-* Step (2): Upload your Config from Releases Page download, then click Update.
-* Step (3): Wait for Device / Router Restart or Reboot, then all the Settings should be Updated accordingly.
+* Step (1): Go to Router Settings Page, then click "DHCP" (1x) and edit "router_settings" to "backup_data"..
+* Step (2): Upload your Config from Releases Page download, then click Update..
+* Step (3): Wait for Device / Router Restart or Reboot, then all the Settings should be Updated accordingly..
 
 ## Network Codes:
 
