@@ -54,6 +54,9 @@
 <p>
   <img src="https://cdn.snowkel.us/image/redirect/gcash"></img>
 </p>
+<p>
+	<a href="https://paypal.me" rel="noreferrer noopener" target="_blank">Paypal Payments</a>
+</p>
 </details>
 
 ## Releases Page:
