@@ -54,11 +54,12 @@
 <p>
   <img src="https://cdn.snowkel.us/image/redirect/gcash"></img>
 </p>
+<br/>
 <p>
 	<code>Paypal Payments:</code>
 </p>
 <p>
-	<a href="https://paypal.me/binarymako" rel="noreferrer noopener" target="_blank">Paypal: @binarymako</a>
+	<a href="https://paypal.me/binarymako" rel="noreferrer noopener" target="_blank">@binarymako</a>
 </p>
 </details>
 
