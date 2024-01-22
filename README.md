@@ -59,7 +59,7 @@
 	<code>Paypal Payments:</code>
 </p>
 <p>
-	<a href="https://paypal.me/binarymako" rel="noreferrer noopener" target="_blank">@binarymako</a>
+	* <a href="https://paypal.me/binarymako" rel="noreferrer noopener" target="_blank">@binarymako</a>
 </p>
 </details>
 
