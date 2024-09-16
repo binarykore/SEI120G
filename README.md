@@ -146,10 +146,19 @@ Open Available Ports (White / Black):
 * 8357 (SSH)
 * 4719 (Telnet)
 
-## Notice:
+## Notice to Developers and Consumers:
 
-How to get Admin Password via 192.168.254.254:
-* http://192.168.254.254/goform/goform_get_cmd_process?isTest=false&cmd=admin_Password
+Paid Credentials and Modifications:
+
+* Custom APN / DNS APNs
+* DHCP / IPV4 Subnet
+* Openline via Binary Config
+* Other Networking Features
+* Network Indicator
+* Custom CSS Import URL
+* Version Indicator
+* Custom Username / Password Credentials
+* Custom SSID - Indication / Password
 
 ## Copyright (2020)
 
