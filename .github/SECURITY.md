@@ -1,3 +1,4 @@
-## Security:
+#### Security Operations:
 
-* Checkout.md
+* [Wikipedia](https://github.com/binarykore/SEI120G/wiki)
+* [Releases](https://github.com/binarykore/SEI120G/releases)
