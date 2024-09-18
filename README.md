@@ -94,23 +94,23 @@ PLMNs ( Public Land Mobile Network ):
 #### Technician and Admin Accounts:
 
 Default Account ( Globe LTE ):
-* Username:user
-* Password:@l03e1t3
+* Username: user
+* Password: @l03e1t3
 
 Customized Account ( V4 and above ):
 * Username ( mako / paid_password )
 
 Admin ( Black ) Account:
-* Username:admin
-* Password:CP45HhBP
+* Username: admin
+* Password: CP45HhBP
 
 Admin ( White ) Account:
-* Username:admin
-* Password:EfkXhRHD
+* Username: admin
+* Password: EfkXhRHD
 
 Super Admin ( Black ) Account:
-* Username:sztozed
-* Password:83583000
+* Username: sztozed
+* Password: 83583000
 
 #### Precautions ( Do It Yourself )
 A must do precautionary measure if your IMEI doesnt change by using the Firmware.
@@ -120,8 +120,8 @@ A must do precautionary measure if your IMEI doesnt change by using the Firmware
 
 Super Admin ( White: Universal Firmware ) Account:
 * https://github.com/binarykore/SEI120G/releases/tag/LT90T_1.01.1_v02
-* Username:sztozed
-* Password:44433618
+* Username: sztozed
+* Password: 44433618
 
 #### For Future Preference:
 
