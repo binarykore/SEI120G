@@ -168,6 +168,13 @@ Paid Credentials and Modifications:
 * Custom SSID - Indication / Password
 * Custom Hostname via Reserved IP Gateway
 
+#### Wikipedia Page ( Under Construction ):
+
+Soon -
+
+* https://github.com/binarykore/SEI120G/wiki
+
+
 ## Copyright (2020)
 
 ( C ) - [Binary Kore](https://github.com/binarykore), 09225205353
