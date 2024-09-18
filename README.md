@@ -1,20 +1,21 @@
 ## SEI120G: ( Tozed ) - Network Unlock
 
-* SEI120G is a Tozed-based Home Prepaid WiFi Router maxed at 10mbps (Globe) / 20mbps (DITO) / Smart? (Soon) - depending on the Location of the Router and House, It may however be installed with an IPX Connector or SMA to UFL Connector to increase the Frequency, Currently it has 20mhz / 40mhz Router Bandwidth and a bit MB for the RAM to accumulate the horse power of the WiFi Router.. It has 4.0ghz WiFi Standard and up to a couple of Users Connected only hotspot..
+* SEI120G is a Tozed-based Home Prepaid WiFi Router maxed at 10 mbps (Globe) / 20 mbps (DITO) / Soon? (Smart) - depending on the Location of the Router and House, It may however be installed with an IPX Connector or SMA to UFL Connector to increase the Frequency, Currently it has 20mhz / 40mhz Router Bandwidth and a bit MB for the RAM to accumulate the horse power of the WiFi Router.. It has 4.0ghz WiFi Standard and up to a couple of Users Connected only hotspot..
 
-### How Much?
+#### How Much? Check below, For more Info -
+
 #### (Maintenance and Configuration) - EG:
 
 * APN Settings, CIDR / DHCP Subnetting, Networking and Admin Access, Openline - Strictly no Debranding..
 
 * An amount of PHP 100.00 or USD 2.00 (or less) is suffice to support the Configurations and Mods in the Config Firmware File..
 
-## Donations and Payments:
+#### Donations and Payments ( Notice ):
 
 * The Funds ( 30% of the Income / Transaction ) will be donated to Feeding Programs and Charity..
 * EG: (30 divided by PHP 100.00 multiplied by 100), PM / DM for Setups! ( [Chat Support](https://m.me/binarymako) )..
 
-## Donations and Charity Drives:
+#### Donations and Charity Drives:
 
 * Feeding Programs..
 * Charity Drives..
@@ -63,60 +64,66 @@
 </p>
 </details>
 
-## Releases Page:
+#### Releases Page ( Version: 1 to 4 ):
 
 * https://github.com/binarykore/SEI120G/releases/
 
-## Basic Steps (Openline and Frequency Settings):
+#### Basic Steps (Openline and Frequency Settings):
 
 * Step (1): Advance Settings URL Addon - "mcc_mnc_locking/frequency" from "router_settings"..
 * Step (2): Input your Telecom PLMN Pin and Disable the MCC / MNC Unlocking Toggle..
 
-## Advance Setups (Update Config):
+#### Advance Setups ( Update Router Config ):
 
 * Step (1): Go to Router Settings Page, then click "DHCP" (1x) and edit "router_settings" to "backup_data"..
 * Step (2): Upload your Config from Releases Page download, then click Update..
 * Step (3): Wait for Device / Router Restart or Reboot, then all the Settings should be Updated accordingly..
 
-## Network Codes:
+#### Network Codes:
 
-#### PLMNs:
-* 51503 (Smart)
-* 51505 (SUN / Digitel)
-* 51502 (Globe)
-* 51501 (Globe)
-* 51566 (DITO)
+PLMNs ( Public Land Mobile Network ):
 
-## Accounts:
+* 51503 ( PLDT / Smart )
+* 515xx ( Touch Mobile )
+* 515xx ( TNT - Talk n Text )
+* 51505 ( SUN / Digitel )
+* 51502 ( Globe, possibly TM )
+* 51501 ( Globe, possibly TM )
+* 51566 ( Mislatel / DITO )
 
-Default Account:
+#### Technician and Admin Accounts:
+
+Default Account ( Globe LTE ):
 * Username:user
 * Password:@l03e1t3
 
-Admin (Black) Account:
+Customized Account ( V4 and above ):
+* Username ( mako / paid_password )
+
+Admin ( Black ) Account:
 * Username:admin
 * Password:CP45HhBP
 
-Admin (White) Account:
+Admin ( White ) Account:
 * Username:admin
 * Password:EfkXhRHD
 
-SuperAdmin (Black) Account:
+Super Admin ( Black ) Account:
 * Username:sztozed
 * Password:83583000
 
-## Precautions (DIY)
+#### Precautions ( Do It Yourself )
 A must do precautionary measure if your IMEI doesnt change by using the Firmware.
 * Do an AT Command first via #send_at from your Mobile Browser by clicking DHCP (x1) from #router_settings
 * Afterwards type this Command: AT^MODIMEI="new_imei" then Upload the Universal Firmware
 * I just tested this earlier by Uploading the Firmware without AT+ Commands first
 
-SuperAdmin (White:Universal_Firmware) Account:
+Super Admin ( White: Universal Firmware ) Account:
 * https://github.com/binarykore/SEI120G/releases/tag/LT90T_1.01.1_v02
 * Username:sztozed
 * Password:44433618
 
-## For Future Preference:
+#### For Future Preference:
 
 * IMEI (860702049866890):
 
@@ -136,22 +143,22 @@ user > sztozed
 
 pass > 48143168
 
-## TZ_NVShow (DIY):
+#### TZ_NVShow ( Filename ) / Binary Config ( Do It Yourself ):
 * imei=new_imei
 * tz_sn_code=SEIT + new_imei
 
-## Networking:
+#### Networking:
 
-Open Available Ports (White / Black):
+Open Available Ports ( White / Black ):
 * 8357 (SSH)
 * 4719 (Telnet)
 
-## Notice to Developers and Consumers:
+#### Notice to Developers and Consumers:
 
 Paid Credentials and Modifications:
 
 * Custom APN / DNS APNs
-* DHCP / IPV4 Subnet
+* DHCP / IPV4 to IPV6 (if possible) Subnet
 * Openline via Binary Config
 * Other Networking Features
 * Network Indicator
@@ -159,6 +166,7 @@ Paid Credentials and Modifications:
 * Version Indicator
 * Custom Username / Password Credentials
 * Custom SSID - Indication / Password
+* Custom Hostname via Reserved IP Gateway
 
 ## Copyright (2020)
 
