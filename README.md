@@ -64,6 +64,8 @@
 </p>
 </details>
 
+[![Sponsor Binary Kore](https://img.shields.io/github/sponsors/binarykore?label=Sponsor%20Binary%20Kore&logo=github&style=for-the-badge)](https://github.com/sponsors/binarykore?frequency=patreon)
+
 #### Releases Page ( Version: 1 to 4 ):
 
 * https://github.com/binarykore/SEI120G/releases/
